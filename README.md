@@ -3,6 +3,8 @@
 
 WebCrawler is my final project for my AP Computer Science A course.
 
+
+
 ####Docs:
 **Crawler.java**
 
@@ -17,6 +19,8 @@ returns all link URLs from the page as an ArrayList (should only be called after
 
 *public void print()*
 prints all items in the ArrayList holding link URLs
+
+
 
 ####Changelog:
 **March 29, 2015**
